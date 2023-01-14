@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="card"
+>
+  <div
+    className="card"
+    style={
+      Object {
+        "width": "18rem",
+      }
+    }
+  >
+    <img
+      className="card-img-top"
+      src="FPic.jpg"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Fakemon Battle
+      </div>
+      <p
+        className="card-text"
+      >
+        Fakèmon Battle was created for my milestone projects for people to see my skills and knowledge built during Part 1 of my Bootcamp studies, it was inspired from playing Pokèmon while growing up
+      </p>
+    </div>
+  </div>
+</div>
+`;
